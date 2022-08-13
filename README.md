@@ -77,7 +77,7 @@ https://flo.uri.sh/visualisation/10898308/embed
 
 -----
 
-### RESUMO ESCOLARIDADE (
+### RESUMO ESCOLARIDADE
 
 escolaridade_partido
 https://flo.uri.sh/visualisation/10879985/embed
