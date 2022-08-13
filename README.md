@@ -66,6 +66,9 @@ genero_cargo (disparidade de representação das mulheres em candidaturas a legi
 
 ### RESUMO PROFISSÕES
 
+top10_profissoes
+https://flo.uri.sh/visualisation/10880273/embed
+
 profissoes_grupos
 https://flo.uri.sh/visualisation/10884848/embed
 
