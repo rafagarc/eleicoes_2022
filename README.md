@@ -1,5 +1,9 @@
 # Eleições 2022 - Dados
 
+## Dataset
+
+https://github.com/rafagarc/eleicoes_2022/blob/main/consulta_cand_2022_BRASIL.csv
+
 ## Menu de gráficos
 
 ### RESUMO GERAL
