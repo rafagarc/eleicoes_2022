@@ -27,10 +27,10 @@ https://flo.uri.sh/visualisation/10880273/embed
 partidos_candidatos
 https://flo.uri.sh/visualisation/10887078/embed
 
-~~partidos_coligações (para mostrar quais são as maiores coligações e partidos neste ano)~~
+~~partidos_coligações (para mostrar quais são as maiores coligações e partidos neste ano)~~  
 (desisti de fazer. é muito complexo para desemaranhar num gráfico pequeno)
 
-nomes_lula_bolsonaro (candidatos que usam palavras 'Lula' ou 'Bolsonaro' como nome de urna)
+nomes_lula_bolsonaro (candidatos que usam palavras 'Lula' ou 'Bolsonaro' como nome de urna)  
 (em produção)
 
 ---
@@ -46,7 +46,7 @@ https://flo.uri.sh/visualisation/10879439/embed
 indigenas_partido
 https://flo.uri.sh/visualisation/10879657/embed
 
-raca_mudanca (candidatos que mudaram declaração de raça/cor de 2018 para 2022)
+raca_mudanca (candidatos que mudaram declaração de raça/cor de 2018 para 2022)  
 (em produção)
 
 ---
@@ -62,7 +62,7 @@ https://flo.uri.sh/visualisation/10879356/embed
 genero_idade
 https://flo.uri.sh/visualisation/10880138/embed
 
-genero_cargo (disparidade de representação das mulheres em candidaturas a legislativo e executivo)
+genero_cargo (disparidade de representação das mulheres em candidaturas a legislativo e executivo)  
 (em produção)
 
 ----
