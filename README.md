@@ -27,8 +27,8 @@ https://flo.uri.sh/visualisation/10880273/embed
 partidos_candidatos
 https://flo.uri.sh/visualisation/10887078/embed
 
-partidos_coligações (para mostrar quais são as maiores coligações e partidos neste ano)
-(em produção)
+~~partidos_coligações (para mostrar quais são as maiores coligações e partidos neste ano)~~
+(desisti de fazer. é muito complexo para desemaranhar num gráfico pequeno)
 
 nomes_lula_bolsonaro (candidatos que usam palavras 'Lula' ou 'Bolsonaro' como nome de urna)
 (em produção)
