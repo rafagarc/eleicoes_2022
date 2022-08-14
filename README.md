@@ -69,6 +69,9 @@ genero_cargo (disparidade de representação das mulheres em candidaturas a legi
 
 ### RESUMO PROFISSÕES
 
+profissao_compara (só tabela)
+https://github.com/rafagarc/eleicoes_2022/blob/main/profissao_compara.csv
+
 top10_profissoes
 https://flo.uri.sh/visualisation/10880273/embed
 
