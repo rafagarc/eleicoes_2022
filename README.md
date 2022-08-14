@@ -16,7 +16,7 @@ https://flo.uri.sh/visualisation/10878414/embed
 top10_profissoes
 https://flo.uri.sh/visualisation/10880273/embed
 
------
+---
 
 ### RESUMO PARTIDOS
 
@@ -29,7 +29,7 @@ partidos_coligações (para mostrar quais são as maiores coligações e partido
 nomes_lula_bolsonaro (candidatos que usam palavras 'Lula' ou 'Bolsonaro' como nome de urna)
 (em produção)
 
-----
+---
 
 ### RESUMO RACIAL
 
@@ -45,7 +45,7 @@ https://flo.uri.sh/visualisation/10879657/embed
 raca_mudanca (candidatos que mudaram declaração de raça/cor de 2018 para 2022)
 (em produção)
 
-----
+---
 
 ### RESUMO MULHERES
 
@@ -61,8 +61,7 @@ https://flo.uri.sh/visualisation/10880138/embed
 genero_cargo (disparidade de representação das mulheres em candidaturas a legislativo e executivo)
 (em produção)
 
-
------
+----
 
 ### RESUMO PROFISSÕES
 
@@ -78,7 +77,7 @@ https://flo.uri.sh/visualisation/10898998/embed
 militares_policiais
 https://flo.uri.sh/visualisation/10898308/embed
 
------
+---
 
 ### RESUMO ESCOLARIDADE
 
@@ -88,4 +87,14 @@ https://flo.uri.sh/visualisation/10879985/embed
 candidatos_escolaridade
 https://flo.uri.sh/visualisation/10878717/embed
 
+---
 
+## Fontes dos dados
+
+https://dadosabertos.tse.jus.br/dataset/candidatos-2022
+
+2018: https://cdn.tse.jus.br/estatistica/sead/odsele/consulta_cand/consulta_cand_2018.zip
+
+2022: https://cdn.tse.jus.br/estatistica/sead/odsele/consulta_cand/consulta_cand_2022.zip
+
+Metadados: https://drive.google.com/file/d/1mM1U-2hN-9usXOE4Dyvewk_wWjN-ZMuW/
