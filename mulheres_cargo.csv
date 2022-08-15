@@ -1,36 +1,19 @@
 Cargo disputado,Gênero,Candidatos
-Deputado Estadual/Distrital,Mulheres,5238.0
-Deputado Federal,Mulheres,3416.0
-Governador,Mulheres,35.0
-Presidente,Mulheres,4.0
-Senador,Mulheres,49.0
-Vice-Governador,Mulheres,87.0
-Vice-Presidente,Mulheres,5.0
-Deputado Estadual/Distrital,Homens,10644.0
-Deputado Federal,Homens,6510.0
-Governador,Homens,171.0
-Presidente,Homens,8.0
-Senador,Homens,168.0
-Vice-Governador,Homens,119.0
-Vice-Presidente,Homens,7.0
-Deputado Estadual/Distrital,Não divulgável,1.0
-Deputado Federal,Não divulgável,2.0
-Governador,Não divulgável,0.0
-Presidente,Não divulgável,0.0
-Senador,Não divulgável,1.0
-Vice-Governador,Não divulgável,1.0
-Vice-Presidente,Não divulgável,0.0
-Deputado Estadual/Distrital,Mulheres (%),33.0
-Deputado Federal,Mulheres (%),34.4
-Governador,Mulheres (%),17.0
-Presidente,Mulheres (%),33.3
-Senador,Mulheres (%),22.6
-Vice-Governador,Mulheres (%),42.2
-Vice-Presidente,Mulheres (%),41.7
-Deputado Estadual/Distrital,Homens (%),67.0
-Deputado Federal,Homens (%),65.6
-Governador,Homens (%),83.0
-Presidente,Homens (%),66.7
-Senador,Homens (%),77.4
-Vice-Governador,Homens (%),57.8
-Vice-Presidente,Homens (%),58.3
+Deputado Estadual/Distrital,Feminino,5238
+Deputado Estadual/Distrital,Masculino,10644
+Deputado Estadual/Distrital,Não Divulgável,1
+Deputado Federal,Feminino,3416
+Deputado Federal,Masculino,6510
+Deputado Federal,Não Divulgável,2
+Governador,Feminino,35
+Governador,Masculino,171
+Presidente,Feminino,4
+Presidente,Masculino,8
+Senador,Feminino,49
+Senador,Masculino,168
+Senador,Não Divulgável,1
+Vice-Governador,Feminino,87
+Vice-Governador,Masculino,119
+Vice-Governador,Não Divulgável,1
+Vice-Presidente,Feminino,5
+Vice-Presidente,Masculino,7
