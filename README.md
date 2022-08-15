@@ -30,8 +30,8 @@ https://flo.uri.sh/visualisation/10887078/embed
 ~~partidos_coligações (para mostrar quais são as maiores coligações e partidos neste ano)~~  
 (desisti de fazer. é muito complexo para desemaranhar num gráfico pequeno)
 
-nomes_lula_bolsonaro (candidatos que usam palavras 'Lula' ou 'Bolsonaro' como nome de urna)  
-(em produção)
+nomes_lula_bolsonaro
+https://flo.uri.sh/visualisation/10917340/embed
 
 ---
 
