@@ -1,5 +1,5 @@
 Raça declarada em 2018, ,Raça declarada em 2022,Candidatos
-Branca,→,Parda,548
+Branca,→,Parda,547
 Parda,→,Branca,401
 Parda,→,Preta,212
 Preta,→,Parda,91
@@ -16,5 +16,4 @@ Indígena,→,Parda,2
 Indígena,→,Branca,2
 Amarela,→,Preta,2
 Parda,→,Amarela,1
-Preta,→,Não Informado,1
 Indígena,→,Não Informado,1
