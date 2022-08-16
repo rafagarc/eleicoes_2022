@@ -17,23 +17,20 @@ https://flo.uri.sh/visualisation/10878106/embed
 candidatos_genero
 https://flo.uri.sh/visualisation/10878414/embed
 
-top10_profissoes
-https://flo.uri.sh/visualisation/10880273/embed
+top10_profissoes_VA
+https://flo.uri.sh/visualisation/10929642/embed
 
----
+----
 
 ### RESUMO PARTIDOS
 
 partidos_candidatos
 https://flo.uri.sh/visualisation/10887078/embed
 
-~~partidos_coligações (para mostrar quais são as maiores coligações e partidos neste ano)~~  
-(desisti de fazer. é muito complexo para desemaranhar num gráfico pequeno)
-
-nomes_lula_bolsonaro
+nomes_lula_bolsonaro_numeros
 https://flo.uri.sh/visualisation/10917340/embed
 
----
+----
 
 ### RESUMO RACIAL
 
@@ -46,15 +43,18 @@ https://flo.uri.sh/visualisation/10879439/embed
 indigenas_partido
 https://flo.uri.sh/visualisation/10879657/embed
 
-raca_mudanca (candidatos que mudaram declaração de raça/cor de 2018 para 2022)  
-(em produção)
+raca_mudanca
+https://flo.uri.sh/visualisation/10922075/embed
 
----
+----
 
 ### RESUMO MULHERES
 
 candidatos_genero
 https://flo.uri.sh/visualisation/10878414/embed
+
+mulheres_cargo
+https://flo.uri.sh/visualisation/10920834/embed
 
 genero_partido
 https://flo.uri.sh/visualisation/10879356/embed
@@ -72,19 +72,19 @@ https://flo.uri.sh/visualisation/10920834/embed
 profissao_compara (só tabela)
 https://github.com/rafagarc/eleicoes_2022/blob/main/profissao_compara.csv
 
-top10_profissoes
-https://flo.uri.sh/visualisation/10880273/embed
+top10_profissoes_VA
+https://flo.uri.sh/visualisation/10929642/embed
 
-profissoes_grupos
-https://flo.uri.sh/visualisation/10884848/embed
+profissoes_grupos_VA
+https://flo.uri.sh/visualisation/10929661/embed
 
-nome_de_urna
-https://flo.uri.sh/visualisation/10898998/embed
+nome_de_urna_VA
+https://flo.uri.sh/visualisation/10929674/embed]
 
-militares_policiais
-https://flo.uri.sh/visualisation/10898308/embed
+militares_e_policiais_VA
+https://flo.uri.sh/visualisation/10929734/embed
 
----
+----
 
 ### RESUMO ESCOLARIDADE
 
@@ -94,7 +94,10 @@ https://flo.uri.sh/visualisation/10879985/embed
 candidatos_escolaridade
 https://flo.uri.sh/visualisation/10878717/embed
 
----
+
+----
+
+----
 
 ## Fontes dos dados
 
