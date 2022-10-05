@@ -1,0 +1,1341 @@
+PRESIDENTE
+Mais votados em % de votos válidos - 1ª zona eleitoral
+Lula
+Lula
+2º
+TURNO
+PT
+56.46%
+60683 votos
+Jair Bolsonaro
+Jair Bolsonaro
+2º
+TURNO
+PL
+29.6%
+31814 votos
+Simone Tebet
+Simone Tebet
+MDB
+8.1%
+8709 votos
+--
+PRESIDENTE
+Mais votados em % de votos válidos - 2ª zona eleitoral
+Lula
+Lula
+2º
+TURNO
+PT
+46.39%
+67566 votos
+Jair Bolsonaro
+Jair Bolsonaro
+2º
+TURNO
+PL
+35.33%
+51459 votos
+Simone Tebet
+Simone Tebet
+MDB
+11.9%
+17327 votos
+--
+PRESIDENTE
+Mais votados em % de votos válidos - 3ª zona eleitoral
+Lula
+Lula
+2º
+TURNO
+PT
+48.63%
+26535 votos
+Jair Bolsonaro
+Jair Bolsonaro
+2º
+TURNO
+PL
+39.5%
+21556 votos
+Simone Tebet
+Simone Tebet
+MDB
+6.02%
+3284 votos
+--
+PRESIDENTE
+Mais votados em % de votos válidos - 4ª zona eleitoral
+Jair Bolsonaro
+Jair Bolsonaro
+2º
+TURNO
+PL
+48.84%
+58681 votos
+Lula
+Lula
+2º
+TURNO
+PT
+34.69%
+41687 votos
+Simone Tebet
+Simone Tebet
+MDB
+9.52%
+11440 votos
+--
+PRESIDENTE
+Mais votados em % de votos válidos - 5ª zona eleitoral
+Jair Bolsonaro
+Jair Bolsonaro
+2º
+TURNO
+PL
+41.95%
+38733 votos
+Lula
+Lula
+2º
+TURNO
+PT
+35.79%
+33049 votos
+Simone Tebet
+Simone Tebet
+MDB
+15.58%
+14383 votos
+--
+PRESIDENTE
+Mais votados em % de votos válidos - 6ª zona eleitoral
+Lula
+Lula
+2º
+TURNO
+PT
+41.3%
+51419 votos
+Jair Bolsonaro
+Jair Bolsonaro
+2º
+TURNO
+PL
+38.81%
+48314 votos
+Simone Tebet
+Simone Tebet
+MDB
+12.62%
+15715 votos
+--
+PRESIDENTE
+Mais votados em % de votos válidos - 6ª zona eleitoral
+Lula
+Lula
+2º
+TURNO
+PT
+41.3%
+51419 votos
+Jair Bolsonaro
+Jair Bolsonaro
+2º
+TURNO
+PL
+38.81%
+48314 votos
+Simone Tebet
+Simone Tebet
+MDB
+12.62%
+15715 votos
+--
+PRESIDENTE
+Mais votados em % de votos válidos - 20ª zona eleitoral
+Lula
+Lula
+2º
+TURNO
+PT
+60.91%
+74925 votos
+Jair Bolsonaro
+Jair Bolsonaro
+2º
+TURNO
+PL
+27.93%
+34351 votos
+Simone Tebet
+Simone Tebet
+MDB
+5.4%
+6638 votos
+--
+PRESIDENTE
+Mais votados em % de votos válidos - 246ª zona eleitoral
+Jair Bolsonaro
+Jair Bolsonaro
+2º
+TURNO
+PL
+44.85%
+40172 votos
+Lula
+Lula
+2º
+TURNO
+PT
+33.6%
+30101 votos
+Simone Tebet
+Simone Tebet
+MDB
+13.47%
+12065 votos
+--
+PRESIDENTE
+Mais votados em % de votos válidos - 247ª zona eleitoral
+Lula
+Lula
+2º
+TURNO
+PT
+48.39%
+39085 votos
+Jair Bolsonaro
+Jair Bolsonaro
+2º
+TURNO
+PL
+39.07%
+31562 votos
+Simone Tebet
+Simone Tebet
+MDB
+6.51%
+5262 votos
+--
+PRESIDENTE
+Mais votados em % de votos válidos - 248ª zona eleitoral
+Lula
+Lula
+2º
+TURNO
+PT
+49.1%
+57472 votos
+Jair Bolsonaro
+Jair Bolsonaro
+2º
+TURNO
+PL
+38.03%
+44510 votos
+Simone Tebet
+Simone Tebet
+MDB
+6.52%
+7632 votos
+--
+PRESIDENTE
+Mais votados em % de votos válidos - 249ª zona eleitoral
+Jair Bolsonaro
+Jair Bolsonaro
+2º
+TURNO
+PL
+48.73%
+40331 votos
+Lula
+Lula
+2º
+TURNO
+PT
+33.47%
+27701 votos
+Simone Tebet
+Simone Tebet
+MDB
+10.5%
+8694 votos
+--
+PRESIDENTE
+Mais votados em % de votos válidos - 250ª zona eleitoral
+Jair Bolsonaro
+Jair Bolsonaro
+2º
+TURNO
+PL
+43.14%
+55071 votos
+Lula
+Lula
+2º
+TURNO
+PT
+38.11%
+48650 votos
+Simone Tebet
+Simone Tebet
+MDB
+11.4%
+14548 votos
+--
+PRESIDENTE
+Mais votados em % de votos válidos - 251ª zona eleitoral
+Lula
+Lula
+2º
+TURNO
+PT
+46.75%
+41103 votos
+Jair Bolsonaro
+Jair Bolsonaro
+2º
+TURNO
+PL
+32.72%
+28763 votos
+Simone Tebet
+Simone Tebet
+MDB
+14.11%
+12405 votos
+--
+PRESIDENTE
+Mais votados em % de votos válidos - 252ª zona eleitoral
+Jair Bolsonaro
+Jair Bolsonaro
+2º
+TURNO
+PL
+45%
+37223 votos
+Lula
+Lula
+2º
+TURNO
+PT
+39.08%
+32319 votos
+Simone Tebet
+Simone Tebet
+MDB
+8.57%
+7089 votos
+--
+PRESIDENTE
+Mais votados em % de votos válidos - 253ª zona eleitoral
+Jair Bolsonaro
+Jair Bolsonaro
+2º
+TURNO
+PL
+48.98%
+81986 votos
+Lula
+Lula
+2º
+TURNO
+PT
+34.14%
+57144 votos
+Simone Tebet
+Simone Tebet
+MDB
+9.61%
+16094 votos
+--
+PRESIDENTE
+Mais votados em % de votos válidos - 254ª zona eleitoral
+Jair Bolsonaro
+Jair Bolsonaro
+2º
+TURNO
+PL
+47.41%
+53637 votos
+Lula
+Lula
+2º
+TURNO
+PT
+38.92%
+44036 votos
+Simone Tebet
+Simone Tebet
+MDB
+7.51%
+8498 votos
+--
+PRESIDENTE
+Mais votados em % de votos válidos - 255ª zona eleitoral
+Jair Bolsonaro
+Jair Bolsonaro
+2º
+TURNO
+PL
+42.46%
+58951 votos
+Lula
+Lula
+2º
+TURNO
+PT
+41.99%
+58300 votos
+Simone Tebet
+Simone Tebet
+MDB
+8.94%
+12408 votos
+--
+PRESIDENTE
+Mais votados em % de votos válidos - 256ª zona eleitoral
+Jair Bolsonaro
+Jair Bolsonaro
+2º
+TURNO
+PL
+44.43%
+57564 votos
+Lula
+Lula
+2º
+TURNO
+PT
+41.16%
+53329 votos
+Simone Tebet
+Simone Tebet
+MDB
+7.85%
+10169 votos
+--
+PRESIDENTE
+Mais votados em % de votos válidos - 257ª zona eleitoral
+Jair Bolsonaro
+Jair Bolsonaro
+2º
+TURNO
+PL
+46.61%
+61361 votos
+Lula
+Lula
+2º
+TURNO
+PT
+37.48%
+49343 votos
+Simone Tebet
+Simone Tebet
+MDB
+9.03%
+11884 votos
+--
+PRESIDENTE
+Mais votados em % de votos válidos - 258ª zona eleitoral
+Jair Bolsonaro
+Jair Bolsonaro
+2º
+TURNO
+PL
+46.27%
+65737 votos
+Lula
+Lula
+2º
+TURNO
+PT
+31.41%
+44626 votos
+Simone Tebet
+Simone Tebet
+MDB
+14.76%
+20964 votos
+--
+PRESIDENTE
+Mais votados em % de votos válidos - 259ª zona eleitoral
+Jair Bolsonaro
+Jair Bolsonaro
+2º
+TURNO
+PL
+39.95%
+47078 votos
+Lula
+Lula
+2º
+TURNO
+PT
+37.24%
+43882 votos
+Simone Tebet
+Simone Tebet
+MDB
+14.8%
+17435 votos
+--
+PRESIDENTE
+Mais votados em % de votos válidos - 259ª zona eleitoral
+Jair Bolsonaro
+Jair Bolsonaro
+2º
+TURNO
+PL
+39.95%
+47078 votos
+Lula
+Lula
+2º
+TURNO
+PT
+37.24%
+43882 votos
+Simone Tebet
+Simone Tebet
+MDB
+14.8%
+17435 votos
+--
+PRESIDENTE
+Mais votados em % de votos válidos - 260ª zona eleitoral
+Lula
+Lula
+2º
+TURNO
+PT
+45.28%
+60824 votos
+Jair Bolsonaro
+Jair Bolsonaro
+2º
+TURNO
+PL
+39.7%
+53333 votos
+Simone Tebet
+Simone Tebet
+MDB
+8.54%
+11467 votos
+--
+PRESIDENTE
+Mais votados em % de votos válidos - 280ª zona eleitoral
+Lula
+Lula
+2º
+TURNO
+PT
+48.11%
+62264 votos
+Jair Bolsonaro
+Jair Bolsonaro
+2º
+TURNO
+PL
+37.16%
+48095 votos
+Simone Tebet
+Simone Tebet
+MDB
+8.05%
+10414 votos
+--
+PRESIDENTE
+Mais votados em % de votos válidos - 320ª zona eleitoral
+Lula
+Lula
+2º
+TURNO
+PT
+47.88%
+65675 votos
+Jair Bolsonaro
+Jair Bolsonaro
+2º
+TURNO
+PL
+35.95%
+49307 votos
+Simone Tebet
+Simone Tebet
+MDB
+9.02%
+12371 votos
+--
+PRESIDENTE
+Mais votados em % de votos válidos - 325ª zona eleitoral
+Jair Bolsonaro
+Jair Bolsonaro
+2º
+TURNO
+PL
+43.1%
+32262 votos
+Lula
+Lula
+2º
+TURNO
+PT
+40.59%
+30381 votos
+Simone Tebet
+Simone Tebet
+MDB
+9.13%
+6830 votos
+--
+PRESIDENTE
+Mais votados em % de votos válidos - 326ª zona eleitoral
+Lula
+Lula
+2º
+TURNO
+PT
+48.71%
+39638 votos
+Jair Bolsonaro
+Jair Bolsonaro
+2º
+TURNO
+PL
+39.55%
+32183 votos
+Simone Tebet
+Simone Tebet
+MDB
+6%
+4886 votos
+--
+PRESIDENTE
+Mais votados em % de votos válidos - 327ª zona eleitoral
+Lula
+Lula
+2º
+TURNO
+PT
+42.88%
+37555 votos
+Jair Bolsonaro
+Jair Bolsonaro
+2º
+TURNO
+PL
+41.81%
+36616 votos
+Simone Tebet
+Simone Tebet
+MDB
+8.67%
+7593 votos
+--
+PRESIDENTE
+Mais votados em % de votos válidos - 328ª zona eleitoral
+Lula
+Lula
+2º
+TURNO
+PT
+53.95%
+72614 votos
+Jair Bolsonaro
+Jair Bolsonaro
+2º
+TURNO
+PL
+32.94%
+44340 votos
+Simone Tebet
+Simone Tebet
+MDB
+6.63%
+8924 votos
+--
+PRESIDENTE
+Mais votados em % de votos válidos - 346ª zona eleitoral
+Lula
+Lula
+2º
+TURNO
+PT
+40.81%
+44473 votos
+Jair Bolsonaro
+Jair Bolsonaro
+2º
+TURNO
+PL
+40.48%
+44114 votos
+Simone Tebet
+Simone Tebet
+MDB
+11.7%
+12749 votos
+--
+PRESIDENTE
+Mais votados em % de votos válidos - 347ª zona eleitoral
+Jair Bolsonaro
+Jair Bolsonaro
+2º
+TURNO
+PL
+43.86%
+57138 votos
+Lula
+Lula
+2º
+TURNO
+PT
+41.12%
+53565 votos
+Simone Tebet
+Simone Tebet
+MDB
+8.17%
+10640 votos
+--
+PRESIDENTE
+Mais votados em % de votos válidos - 348ª zona eleitoral
+Jair Bolsonaro
+Jair Bolsonaro
+2º
+TURNO
+PL
+49.32%
+37638 votos
+Lula
+Lula
+2º
+TURNO
+PT
+34.97%
+26682 votos
+Simone Tebet
+Simone Tebet
+MDB
+8.87%
+6766 votos
+--
+PRESIDENTE
+Mais votados em % de votos válidos - 349ª zona eleitoral
+Lula
+Lula
+2º
+TURNO
+PT
+43.01%
+41176 votos
+Jair Bolsonaro
+Jair Bolsonaro
+2º
+TURNO
+PL
+42.67%
+40854 votos
+Simone Tebet
+Simone Tebet
+MDB
+7.83%
+7500 votos
+--
+PRESIDENTE
+Mais votados em % de votos válidos - 350ª zona eleitoral
+Lula
+Lula
+2º
+TURNO
+PT
+43.66%
+44006 votos
+Jair Bolsonaro
+Jair Bolsonaro
+2º
+TURNO
+PL
+42.93%
+43274 votos
+Simone Tebet
+Simone Tebet
+MDB
+7.23%
+7290 votos
+--
+PRESIDENTE
+Mais votados em % de votos válidos - 351ª zona eleitoral
+Lula
+Lula
+2º
+TURNO
+PT
+50.68%
+49835 votos
+Jair Bolsonaro
+Jair Bolsonaro
+2º
+TURNO
+PL
+35.04%
+34454 votos
+Simone Tebet
+Simone Tebet
+MDB
+7.76%
+7626 votos
+--
+PRESIDENTE
+Mais votados em % de votos válidos - 352ª zona eleitoral
+Lula
+Lula
+2º
+TURNO
+PT
+52.54%
+81511 votos
+Jair Bolsonaro
+Jair Bolsonaro
+2º
+TURNO
+PL
+36.39%
+56459 votos
+Simone Tebet
+Simone Tebet
+MDB
+5.67%
+8799 votos
+--
+PRESIDENTE
+Mais votados em % de votos válidos - 353ª zona eleitoral
+Lula
+Lula
+2º
+TURNO
+PT
+55.83%
+76019 votos
+Jair Bolsonaro
+Jair Bolsonaro
+2º
+TURNO
+PL
+33.53%
+45653 votos
+Simone Tebet
+Simone Tebet
+MDB
+5.2%
+7084 votos
+--
+PRESIDENTE
+Mais votados em % de votos válidos - 371ª zona eleitoral
+Lula
+Lula
+2º
+TURNO
+PT
+61.77%
+93576 votos
+Jair Bolsonaro
+Jair Bolsonaro
+2º
+TURNO
+PL
+27.37%
+41468 votos
+Simone Tebet
+Simone Tebet
+MDB
+5.37%
+8141 votos
+--
+PRESIDENTE
+Mais votados em % de votos válidos - 372ª zona eleitoral
+Lula
+Lula
+2º
+TURNO
+PT
+62.16%
+131030 votos
+Jair Bolsonaro
+Jair Bolsonaro
+2º
+TURNO
+PL
+26.94%
+56792 votos
+Simone Tebet
+Simone Tebet
+MDB
+5.27%
+11107 votos
+--
+PRESIDENTE
+Mais votados em % de votos válidos - 373ª zona eleitoral
+Lula
+Lula
+2º
+TURNO
+PT
+57.27%
+56650 votos
+Jair Bolsonaro
+Jair Bolsonaro
+2º
+TURNO
+PL
+30.47%
+30144 votos
+Simone Tebet
+Simone Tebet
+MDB
+6.09%
+6024 votos
+--
+PRESIDENTE
+Mais votados em % de votos válidos - 374ª zona eleitoral
+Lula
+Lula
+2º
+TURNO
+PT
+50.14%
+96284 votos
+Jair Bolsonaro
+Jair Bolsonaro
+2º
+TURNO
+PL
+34.66%
+66564 votos
+Simone Tebet
+Simone Tebet
+MDB
+8.61%
+16540 votos
+--
+PRESIDENTE
+Mais votados em % de votos válidos - 375ª zona eleitoral
+Lula
+Lula
+2º
+TURNO
+PT
+54.25%
+103125 votos
+Jair Bolsonaro
+Jair Bolsonaro
+2º
+TURNO
+PL
+34.74%
+66037 votos
+Simone Tebet
+Simone Tebet
+MDB
+5.53%
+10506 votos
+--
+PRESIDENTE
+Mais votados em % de votos válidos - 376ª zona eleitoral
+Lula
+Lula
+2º
+TURNO
+PT
+52.99%
+96397 votos
+Jair Bolsonaro
+Jair Bolsonaro
+2º
+TURNO
+PL
+34.99%
+63641 votos
+Simone Tebet
+Simone Tebet
+MDB
+6.41%
+11664 votos
+--
+PRESIDENTE
+Mais votados em % de votos válidos - 381ª zona eleitoral
+Lula
+Lula
+2º
+TURNO
+PT
+60.39%
+108864 votos
+Jair Bolsonaro
+Jair Bolsonaro
+2º
+TURNO
+PL
+28.52%
+51407 votos
+Simone Tebet
+Simone Tebet
+MDB
+5.4%
+9730 votos
+--
+PRESIDENTE
+Mais votados em % de votos válidos - 389ª zona eleitoral
+Lula
+Lula
+2º
+TURNO
+PT
+55.04%
+82812 votos
+Jair Bolsonaro
+Jair Bolsonaro
+2º
+TURNO
+PL
+33.76%
+50796 votos
+Simone Tebet
+Simone Tebet
+MDB
+5.86%
+8820 votos
+--
+PRESIDENTE
+Mais votados em % de votos válidos - 390ª zona eleitoral
+Lula
+Lula
+2º
+TURNO
+PT
+44.16%
+39736 votos
+Jair Bolsonaro
+Jair Bolsonaro
+2º
+TURNO
+PL
+42.02%
+37812 votos
+Simone Tebet
+Simone Tebet
+MDB
+7.37%
+6628 votos
+--
+PRESIDENTE
+Mais votados em % de votos válidos - 392ª zona eleitoral
+Lula
+Lula
+2º
+TURNO
+PT
+45.12%
+42934 votos
+Jair Bolsonaro
+Jair Bolsonaro
+2º
+TURNO
+PL
+40.8%
+38825 votos
+Simone Tebet
+Simone Tebet
+MDB
+7.53%
+7167 votos
+--
+PRESIDENTE
+Mais votados em % de votos válidos - 397ª zona eleitoral
+Lula
+Lula
+2º
+TURNO
+PT
+52.81%
+62615 votos
+Jair Bolsonaro
+Jair Bolsonaro
+2º
+TURNO
+PL
+36.54%
+43329 votos
+Simone Tebet
+Simone Tebet
+MDB
+5.42%
+6425 votos
+--
+PRESIDENTE
+Mais votados em % de votos válidos - 398ª zona eleitoral
+Lula
+Lula
+2º
+TURNO
+PT
+49.31%
+37217 votos
+Jair Bolsonaro
+Jair Bolsonaro
+2º
+TURNO
+PL
+38.9%
+29361 votos
+Simone Tebet
+Simone Tebet
+MDB
+5.88%
+4439 votos
+--
+PRESIDENTE
+Mais votados em % de votos válidos - 403ª zona eleitoral
+Lula
+Lula
+2º
+TURNO
+PT
+50.21%
+42308 votos
+Jair Bolsonaro
+Jair Bolsonaro
+2º
+TURNO
+PL
+36.59%
+30831 votos
+Simone Tebet
+Simone Tebet
+MDB
+7.16%
+6033 votos
+--
+PRESIDENTE
+Mais votados em % de votos válidos - 404ª zona eleitoral
+Lula
+Lula
+2º
+TURNO
+PT
+60.77%
+88478 votos
+Jair Bolsonaro
+Jair Bolsonaro
+2º
+TURNO
+PL
+28.9%
+42085 votos
+Simone Tebet
+Simone Tebet
+MDB
+5.09%
+7406 votos
+--
+PRESIDENTE
+Mais votados em % de votos válidos - 404ª zona eleitoral
+Lula
+Lula
+2º
+TURNO
+PT
+60.77%
+88478 votos
+Jair Bolsonaro
+Jair Bolsonaro
+2º
+TURNO
+PL
+28.9%
+42085 votos
+Simone Tebet
+Simone Tebet
+MDB
+5.09%
+7406 votos
+--
+PRESIDENTE
+Mais votados em % de votos válidos - 405ª zona eleitoral
+Lula
+Lula
+2º
+TURNO
+PT
+52.52%
+42375 votos
+Jair Bolsonaro
+Jair Bolsonaro
+2º
+TURNO
+PL
+33.97%
+27404 votos
+Simone Tebet
+Simone Tebet
+MDB
+7.1%
+5729 votos
+--
+PRESIDENTE
+Mais votados em % de votos válidos - 408ª zona eleitoral
+Lula
+Lula
+2º
+TURNO
+PT
+54.5%
+69486 votos
+Jair Bolsonaro
+Jair Bolsonaro
+2º
+TURNO
+PL
+31.75%
+40477 votos
+Simone Tebet
+Simone Tebet
+MDB
+7.38%
+9407 votos
+--
+PRESIDENTE
+Mais votados em % de votos válidos - 413ª zona eleitoral
+Lula
+Lula
+2º
+TURNO
+PT
+44.98%
+51499 votos
+Jair Bolsonaro
+Jair Bolsonaro
+2º
+TURNO
+PL
+39.01%
+44665 votos
+Simone Tebet
+Simone Tebet
+MDB
+9.15%
+10474 votos
+--
+PRESIDENTE
+Mais votados em % de votos válidos - 417ª zona eleitoral
+Lula
+Lula
+2º
+TURNO
+PT
+47.52%
+44586 votos
+Jair Bolsonaro
+Jair Bolsonaro
+2º
+TURNO
+PL
+38.83%
+36431 votos
+Simone Tebet
+Simone Tebet
+MDB
+7.1%
+6658 votos
+--
+PRESIDENTE
+Mais votados em % de votos válidos - 418ª zona eleitoral
+Lula
+Lula
+2º
+TURNO
+PT
+53.07%
+77028 votos
+Jair Bolsonaro
+Jair Bolsonaro
+2º
+TURNO
+PL
+33.37%
+48437 votos
+Simone Tebet
+Simone Tebet
+MDB
+7.04%
+10217 votos
+--
+PRESIDENTE
+Mais votados em % de votos válidos - 420ª zona eleitoral
+Jair Bolsonaro
+Jair Bolsonaro
+2º
+TURNO
+PL
+46.36%
+40873 votos
+Lula
+Lula
+2º
+TURNO
+PT
+39.7%
+35002 votos
+Simone Tebet
+Simone Tebet
+MDB
+7.71%
+6794 votos
+--
+PRESIDENTE
+Mais votados em % de votos válidos - 421ª zona eleitoral
+Lula
+Lula
+2º
+TURNO
+PT
+52.77%
+57642 votos
+Jair Bolsonaro
+Jair Bolsonaro
+2º
+TURNO
+PL
+36.27%
+39623 votos
+Simone Tebet
+Simone Tebet
+MDB
+5.66%
+6178 votos
+--
+PRESIDENTE
+Mais votados em % de votos válidos - 422ª zona eleitoral
+Lula
+Lula
+2º
+TURNO
+PT
+42.92%
+47502 votos
+Jair Bolsonaro
+Jair Bolsonaro
+2º
+TURNO
+PL
+42.41%
+46939 votos
+Simone Tebet
+Simone Tebet
+MDB
+8.19%
+9066 votos
